@@ -1,4 +1,4 @@
-Ver 3.4.3
+Ver 3.4.0
 	-Started to add support for translations.
 Ver 1.13.11
 	-Small code fix for Seal of Wisdom. -Thanks Breakone9r
