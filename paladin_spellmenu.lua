@@ -147,7 +147,6 @@ function ConROC:SpellmenuClass()
 	  {
 	    frameName = "Judgements",
 	    spells = {
-	      {spellID = ids.optionMaxIds.JudgementoftheCrusader, spellCheckbox = "Judgement_Crusader", reqLevel = 4, type="spell"},
 	      {spellID = ids.optionMaxIds.JudgementofJustice, spellCheckbox = "Judgement_Justice", reqLevel = 8, type="spell"},
 	      {spellID = ids.optionMaxIds.JudgementofLight, spellCheckbox = "Judgement_Light", reqLevel = 26, type="spell"},
 	      {spellID = ids.optionMaxIds.JudgementofWisdom, spellCheckbox = "Judgement_Wisdom", reqLevel = 30, type="spell"}
